@@ -31,6 +31,8 @@ This project is a responsive User Management System built with React and Chakra 
 ### User List View
 ![image](https://github.com/user-attachments/assets/2cbee629-05e0-4956-8bac-9f6552087921)
 
+![image](https://github.com/user-attachments/assets/755b2485-5b4d-4fa9-a530-49085c90a8db)
+
 
 ### Add/Edit User Modal
 ![image](https://github.com/user-attachments/assets/feaf3f7d-4d04-4b7d-b022-1ba55a52e7d2)
